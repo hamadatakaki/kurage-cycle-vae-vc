@@ -1,8 +1,7 @@
 import argparse
-import itertools
 import os
-from pathlib import Path
 import random
+from pathlib import Path
 
 
 def random_choice(dataset: list, size: int) -> tuple[list, list]:
