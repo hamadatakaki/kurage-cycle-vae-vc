@@ -2,3 +2,4 @@ data/
 exp/
 
 .venv/
+**/__pycache__/
